@@ -1,3 +1,8 @@
+MediApp
+
+Frontend for the MediApp project, a simple social media application allowing users to post, like, and comment on content. Built using React, this application features a clean user interface for interacting with the backend. It manages user interactions and displays content dynamically, offering a seamless experience for users. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
